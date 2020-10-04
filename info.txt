@@ -1,0 +1,8 @@
+/first
+firstName,lastName,123,gimazovbulatil@gmail.com,https://mykaleidoscope.ru/uploads/posts/2018-10/1539339930_otkrytka_pleykast__ampquotdobroe_utro.jpg
+/third
+firstName,lastName,123,gimazovbulatil@gmail.com,https://mykaleidoscope.ru/uploads/posts/2018-10/1539339930_otkrytka_pleykast__ampquotdobroe_utro.jpg,not confirmed
+/third
+firstName,lastName,123,gimazovbulatil@gmail.com,https://mykaleidoscope.ru/uploads/posts/2018-10/1539339930_otkrytka_pleykast__ampquotdobroe_utro.jpg,confirmed
+/second
+firstName,lastName,123,gimazovbulatil@gmail.com,https://mykaleidoscope.ru/uploads/posts/2018-10/1539339930_otkrytka_pleykast__ampquotdobroe_utro.jpg
